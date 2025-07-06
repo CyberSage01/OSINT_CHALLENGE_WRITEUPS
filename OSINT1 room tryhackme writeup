@@ -1,0 +1,35 @@
+# OSINT Challenge Writeup
+
+## Task 2
+- Chief Financial Officer of the CFPB: Jafnar Gueye  
+- Total Fund Balance with Treasury in 2024: 249866492 
+Don't put in Comma
+- Duration of the CFPB Supervisor Development Seminar: 3 days
+For task 2 and 3 when you are in the pdf file use Ctrl + F to find in apge then type what you want to find
+
+## Task 3
+- Named CEO of Intel Corporation: March 18, 2025
+Use normal Google search 
+- Previous employer: Cadence Design Systems 
+Same Google search
+- Board tenure: 2022022-2024
+Google search too
+## Task 4
+- Metadata tool: MetaData2Go  
+- Is it command-line? No  
+- Encrypted code with key "CODECOD": THM{K@Y_TO_SUCCESS}  
+check the hint option to go to the website the scroll down you'll see the decryptor
+
+## Task 5
+- Complete the phrase: The Internet Never Forgets  
+- Username checking tool: Namechk  
+- OSINT branch for social media: SOCMINT  
+- Ethical to intimidate friend using SOCMINT? No  
+
+## Task 6
+- Artist name: Christina Lekati  
+Name will be gotten from metadata make sure you copy comment QEJ{Z@kdoxqr1xqflkp!} for decrypting later
+- Twitter/X handle: @ChristinaLekati
+Use Google Dork site:twitter.com Christina Lekati
+- Decrypted secret key: THM{C@ngratu1ations!}
+Go to Google and search for dCode ceaser decrypt then do it like the first one 
