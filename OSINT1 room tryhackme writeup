@@ -2,34 +2,57 @@
 
 ## Task 2
 - Chief Financial Officer of the CFPB: Jafnar Gueye  
-- Total Fund Balance with Treasury in 2024: 249866492 
-Don't put in Comma
-- Duration of the CFPB Supervisor Development Seminar: 3 days
-For task 2 and 3 when you are in the pdf file use Ctrl + F to find in apge then type what you want to find
+- Total Fund Balance with Treasury in 2024: 249866492  
+- Duration of the CFPB Supervisor Development Seminar: 3 days  
+
+🛠️ **Tip for Task 2 & 3:**  
+When you're in a PDF file, press `Ctrl + F` and type keywords (like "Fund Balance" or "Chief") to quickly locate the answer.
+
+---
 
 ## Task 3
-- Named CEO of Intel Corporation: March 18, 2025
-Use normal Google search 
-- Previous employer: Cadence Design Systems 
-Same Google search
-- Board tenure: 2022022-2024
-Google search too
+- Named CEO of Intel Corporation: March 18, 2025  
+- Previous employer: Cadence Design Systems  
+- Board tenure: 2022-2024  
+
+🔍 **How to solve Task 3:**  
+Use regular Google Search. Search phrases like:  
+- "Lip-Bu Tan Intel CEO announcement"  
+- "Lip-Bu Tan Cadence Design"  
+- "Lip-Bu Tan Intel board tenure"
+
+---
+
 ## Task 4
 - Metadata tool: MetaData2Go  
-- Is it command-line? No  
+- Is it a command-line tool? No  
 - Encrypted code with key "CODECOD": THM{K@Y_TO_SUCCESS}  
-check the hint option to go to the website the scroll down you'll see the decryptor
+
+💡 **Hint:**  
+Check the "Hint" option for the Evidence(3) task, click the link to the website, scroll down to find the Vigenère Decryptor tool. Paste the cipher, use key `CODECOD`, and solve.
+
+---
 
 ## Task 5
 - Complete the phrase: The Internet Never Forgets  
 - Username checking tool: Namechk  
 - OSINT branch for social media: SOCMINT  
-- Ethical to intimidate friend using SOCMINT? No  
+- Is using SOCMINT to intimidate ethical? No  
+
+---
 
 ## Task 6
 - Artist name: Christina Lekati  
-Name will be gotten from metadata make sure you copy comment QEJ{Z@kdoxqr1xqflkp!} for decrypting later
-- Twitter/X handle: @ChristinaLekati
-Use Google Dork site:twitter.com Christina Lekati
-- Decrypted secret key: THM{C@ngratu1ations!}
-Go to Google and search for dCode ceaser decrypt then do it like the first one 
+  > Extracted from metadata  
+  > Make sure to copy the comment: `QEJ{Z@kdoxqr1xqflkp!}` for decrypting later
+
+- Twitter/X handle: @ChristinaLekati  
+  > Use Google Dork: `site:twitter.com Christina Lekati`
+
+- Decrypted secret key: THM{C@ngratu1ations!}  
+  > Use dCode Caesar Cipher Decryptor (Google: `dcode caesar decrypt`), paste the cipher, and decipher like the first one.
+
+---
+
+📌 **Final Tip:**  
+Use your tools wisely, follow clues, and break things down into small steps. OSINT is all about observation, creativity, and patience. You did it!
