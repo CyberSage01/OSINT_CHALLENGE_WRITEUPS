@@ -1,0 +1,168 @@
+ᴾᵒᵌᵃ Ethical OSINT Methodology Cheat Sheet
+
+By: Habib Shittu (The Ghost Analyst) 🕵️‍♂️ | CyberSage
+
+
+---
+
+🔎 CRAWL™ METHOD
+
+C – Communicate
+
+> A vague claim has no sources. You don’t include it.
+Answer: Communicate
+
+
+
+A – Analyze
+
+> Comparing GitHub details and announcement info.
+Answer: Analyze
+
+
+
+W – Write
+
+> Logging timeline after noticing changes in websites.
+Answer: Write
+
+
+
+L – Listen
+
+> Suspicious bio update coinciding with award time.
+Answer: Listen
+
+
+
+
+---
+
+🧠 PIE METHOD
+
+P – Preserve
+
+> Screenshot tweet, save URL, timestamp, and archive.
+Answer: Preserve
+
+
+
+I – Identify
+
+> Checking commit history and user info for backdated code.
+Answer: Identify
+
+
+
+E – Evaluate
+
+> Vague language, unclear context — not included in findings.
+Answer: Evaluate
+
+
+
+
+---
+
+🛡️ SANE PRINCIPLES
+
+S – Source
+
+> Cropped group chat screenshot missing origin.
+Answer: Source
+
+
+
+A – Accuracy
+
+> (Apply during all cross-checks and validation.)
+
+
+
+N – Non-invasive
+
+> Ignoring unrelated but accessible playlist.
+Answer: Non-invasive
+
+
+
+E – Ethical
+
+> Skipping unrelated photos with family data.
+Answer: Ethical
+
+
+
+
+---
+
+📜 SLOC METHOD (Report Structure)
+
+> Clear screenshots, links, and timestamps for traceable documentation.
+Answer: SLOC
+
+
+
+
+---
+
+🕊️ 4Rs OF OSINT
+
+◾ Record (Preserve)
+
+> Full tweet details + archive.
+Answer: Collection
+
+
+
+◾ Report
+
+> Bio change documented with date gaps.
+Answer: Report
+
+
+
+◾ Respect (Legal)
+
+> Avoiding private or protected content.
+Answer: Legal
+
+
+
+◾ Review
+
+> WHOIS data re-checked and corrected.
+Answer: Review
+
+
+
+
+---
+
+🌟 BONUS QUESTIONS
+
+Old tweet linked to deleted site  → Evaluate
+
+Lina’s bio changed post-award  → Record
+
+Domain created after launch date  → Preserve
+
+All data from public sources  → Legal
+
+Conflict in GitHub commit vs statement  → Research
+
+
+
+---
+
+🔹 Credit:
+
+Habib Shittu (The Ghost Analyst)
+CyberSage | OSINT Warrior
+GitHub: CyberSage01
+
+
+---
+
+
+
